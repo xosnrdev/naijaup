@@ -1014,7 +1014,7 @@ dependencies = [
 
 [[package]]
 name = "naijaup"
-version = "0.11.5"
+version = "0.11.6"
 dependencies = [
  "clap",
  "clap-cargo",
